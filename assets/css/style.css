@@ -35,7 +35,7 @@ body {
 }
 .song-author {
   margin: 0;
-  color: #90979e;
+  color: #0979e9;
   text-align: center;
 }
 .player-progress {
@@ -91,7 +91,7 @@ body {
   font-size: 16px;
   width: 48px;
   height: 48px;
-  color: #6f7275;
+  color: #016fdc;
   background: linear-gradient(145deg, #cacaca, #f0f0f0);
   border: none;
   border-radius: 50px;
